@@ -1,0 +1,50 @@
+body{
+    margin: 30px;
+    background: #c70101;
+    color: rgb(50, 43, 43);
+}
+
+.logo{
+    width: 100px;
+}
+
+.avatar{
+    width: 300px;
+}
+
+.header{
+    display: flex;
+    margin: 0 0 30px 0;
+}
+
+.h1{
+    width: auto;
+    margin: 0px auto;
+    padding-top: 2%;
+}
+
+.row1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.container1{
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+    padding: 2%;
+    /*border: 1px solid black;*/
+}
+
+.card{
+    width: 400px;
+    text-align: center;
+    margin-top: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+
+
+
+
